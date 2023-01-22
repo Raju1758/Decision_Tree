@@ -1,2 +1,2 @@
 # Decision-Tree-classifier-
-Decision tree classifier with car dataset using machine learning algorithms
+Decision Tree classifier implement machine learning algorithms 
